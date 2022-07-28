@@ -1,5 +1,5 @@
-print("¡¡Hola mundo!! 👋")
-- Me llamo Daniel y trabajé más de 3 años como desarrollador de software.
+# print("¡¡Hola mundo!! 👋")
+- Me llamo **Daniel** y trabajé más de 3 años como desarrollador de software.
 - Brindé mantenimiento continuo a más de 5 aplicaciones empresariales desarrolladas por otros programadores.
 - Participé en el desarrollo de más de 7 aplicaciones nuevas para diferentes empresas.
 - Desarrollé una aplicación asíncrona de facturación electrónica para resolver problemas internos en la corporación.
